@@ -1,0 +1,7 @@
+body {
+    background: #f7f7f7 url('/images/bg01.png');
+}
+.fa-server{
+    font-size: 15;
+    color: red;
+}
