@@ -5,3 +5,9 @@ body {
     font-size: 15;
     color: red;
 }
+.tresc p{
+    font-family: 'Aladin', sans-serif;
+background: red;
+}
+@media all and (max-width: 480px){
+    
