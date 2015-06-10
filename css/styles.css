@@ -9,8 +9,9 @@ body {
     font-family: 'Aladin', sans-serif;
 	font-size: 40pt;
 }
-.col-xs-6 .col-sm-8 
+.col-xs-6 .col-sm-8 p
 {
+	margin-top: 20px;
 	font-family: calibri;
 }	
 .row
