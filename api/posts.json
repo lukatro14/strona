@@ -1,6 +1,6 @@
 [
-	{"title": "1st Post", "entry": "witaj"},
-	{"title": "2nd Post", "entry": "witaj"},
-	{"title": "3rd Post", "entry": "witaj"},
-	{"title": "4th Post", "entry": "witaj"}
+	{"lesson": "Matematyka", "teacher": "A. Gac", "aClass": "Klasa: 3k", "classRoom": "Sala: 82", "hours": "Godziny: 3", "info": ""},
+	{"lesson": "J. Polski", "teacher": "M. Szwec-Zielińska", "aClass": "Klasa: 3k", "classRoom": "Sala: 80", "hours": "Godziny: 2", "info": ""},
+	{"lesson": "WF", "teacher": "J. Karpik", "aClass": "Klasa: 3k", "classRoom": "Sala: orlik", "hours": "Godziny: 3", "info": ""},
+	{"lesson": "Bazy danych", "teacher": "J. Pokorska", "aClass": "Klasa: 3k", "classRoom": "Sala: 54", "hours": "Godziny: 4", "info": ""}
 ]
