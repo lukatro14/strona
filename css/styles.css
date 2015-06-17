@@ -12,14 +12,28 @@ body {
 .col-xs-6 .col-sm-8 p
 {
 	margin-top: 20px;
-	font-family: calibri;
+    {	font-family: calibri;
 }	
 .row
 {
 	background-color:white;
 }
-.entry h4{
+.row .teacher{
     color:#818181;
 }
-
+.title{
+    display: inline;
+}
+    .messages-holder .title{
+    border-bottom: 2px solid #ff7100;
+    }
+hr{
+    color: red;
+    border: 3px;
+    width: 100%;
+}
+.info{
+    padding-right: 20px;
+}
+        
     

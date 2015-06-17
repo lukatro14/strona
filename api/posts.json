@@ -1,6 +1,6 @@
 [
-	{"lesson": "Matematyka", "teacher": "A. Gac", "aClass": "Klasa: 3k", "classRoom": "Sala: 82", "hours": "Godziny: 3", "info": ""},
-	{"lesson": "J. Polski", "teacher": "M. Szwec-Zielińska", "aClass": "Klasa: 3k", "classRoom": "Sala: 80", "hours": "Godziny: 2", "info": ""},
-	{"lesson": "WF", "teacher": "J. Karpik", "aClass": "Klasa: 3k", "classRoom": "Sala: orlik", "hours": "Godziny: 3", "info": ""},
-	{"lesson": "Bazy danych", "teacher": "J. Pokorska", "aClass": "Klasa: 3k", "classRoom": "Sala: 54", "hours": "Godziny: 4", "info": ""}
+	{"lesson": "Matematyka", "teacher": "A. Gac", "aClass": "3k", "classRoom": "82", "hours": "3", "info": ""},
+	{"lesson": "J. Polski", "teacher": "M. Szwec-Zielińska", "aClass": "3k", "classRoom":"80", "hours": "2", "info": ""},
+	{"lesson": "WF", "teacher": "J. Karpik", "aClass": "3k", "classRoom": "orlik", "hours": "3", "info": ""},
+	{"lesson": "Bazy danych", "teacher": "J. Pokorska", "aClass": "3k", "classRoom": "54", "hours": "4", "info": ""}
 ]
